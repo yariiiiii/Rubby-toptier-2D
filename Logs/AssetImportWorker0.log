@@ -691,3 +691,4 @@ Received Import Request.
 Start importing Assets/Art/Sprites/Environmnent/FloorGrassToBricksCorner.png using Guid(df0b6f9e93b65bc4792e6cf7849c5e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1adeb031fd6c2c5bca434f078ee76ecf') in 0.026589 seconds 
   Import took 0.029066 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
